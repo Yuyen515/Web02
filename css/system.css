@@ -1,0 +1,24 @@
+.restAccount {
+    width: 100%;
+    height: 30%;
+}
+.restAccount table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.restAccount th {
+    font-weight: bolder;
+}
+.restAccount td, tr, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.restAccount tr:nth-child(odd) {
+    background: #f3decb;
+}
+/* page problem needs to de fixed. */
+.shit {
+    display: flex;
+}
