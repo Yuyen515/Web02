@@ -24,3 +24,6 @@
 9.會員預約行事曆
          
 使用語言：HTML、CSS、PHP、MySQL、jQuery、JS
+
+內容介紹影片：https://drive.google.com/file/d/1ep_2z2qJWBD_l4wErrexOlkFiDgnFCvy/view?usp=s
+haring
