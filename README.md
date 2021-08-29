@@ -26,3 +26,4 @@
 使用語言：HTML、CSS、PHP、MySQL、jQuery、JS
 
 內容介紹影片：https://drive.google.com/file/d/11ibvVgifi4Gd4z9a_eGLcrpkvV2npkIA/view?usp=sharing
+內容介紹書面：請查閱內容介紹資料夾
